@@ -1,0 +1,11 @@
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Karthika\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
